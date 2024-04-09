@@ -1,0 +1,1 @@
+This is the Mongolian archery data set I collected from Inner Mongolia University. The key_points.json file is what I got after using a computer with RTX 4090 LapTop (performance is about stronger than RTX 4070Ti, weaker than RTX 4080) and using the OpenPose model for processing.angels.json is the angle I calculated for the upper body and archery.
